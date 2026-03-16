@@ -1,6 +1,9 @@
 # MITgcm_MascareneISWs_Run04c
 This repository contains the MITgcm configuration used to simulate internal solitary waves (ISWs) generated at the Mascarene Ridge in the Indian Ocean.
 See **da Silva et al. (2015)** for more details.
+
+![Model domain](plot_0000126600.png)
+
 The configuration is part of the **My Leap** project investigating the formation and evolution of ISWs using nonhydrostatic simulations.
 
 ---
